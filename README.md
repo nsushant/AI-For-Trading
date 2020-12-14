@@ -34,6 +34,13 @@ In this project, a deep learning model is built to classify the sentiment of mes
 the model will be able to predict if any particular message is positive or negative. 
 From this, we'll be able to generate a signal of the public sentiment for various ticker symbols.
 
+7.Combining Signals for Enhanced Alpha:
+In this project, signals on a random forest are combined for enhanced alpha. 
+While implementing this, the problem of overlapping samples is encountered and solved. 
+For the dataset, we'll be using the end of day from Quotemedia and sector data from Sharadar.
+
+8.Backtesting
+A backtester is built using barra data. 
 
 Reference:
 Udacity project discriptions
